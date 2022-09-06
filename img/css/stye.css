@@ -1,0 +1,164 @@
+
+.logo .logo_img{
+    display: block;
+    margin: 0 auto;
+}
+
+.logo .logo-text{
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    font-family: Roboto;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.promo{
+    background-image: url("../img/main_bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 600px;
+    padding: 20px;
+}
+
+.promo h1 {
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: yellow;
+}
+
+.promo h1 span {
+    display: block;
+    font-size: 80px;
+    color: white;
+}
+
+.promo p {
+    font-size: 21px;
+    text-align: center;
+    align-items: center;
+    color: white;
+    margin-top: 30px;
+}
+
+.container {
+    width: 1140px;
+    margin: auto;
+    padding: 30px;
+}
+
+.free {
+    color: yellow;
+}
+
+.button {
+    background-color: rgb(69, 135, 211);
+    display: block;
+    margin: 50px auto;
+    width: 315px;
+    height: 75px;
+    color: #ffffff;
+    border: 0;
+}
+
+
+.intensive {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Scada', sans-serif;
+    background-color: #EFEFEF;
+    text-align: center;
+    padding: 88px 0 75px;
+    height: 500px;
+}
+ .intensive h2 {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+.line {
+    width: 220px;
+    height: 4px;
+    left: 851px;
+    top: 129px;
+    background: #F9BF3B;
+    margin: 10px auto;
+}
+
+.text {
+    margin-top: 17px;
+    color: #4a4a4a;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+}
+
+.intensive .intensive_box {
+    margin-top: 45.5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.intensive .intensive_box p {
+    height: 60px;
+    width: 342px;
+}
+
+
+.about {
+    min-height: 545px;
+    background: url(../img/woman_bg.png) no-repeat 115px bottom;
+    background-size: 50%;
+}
+
+.about_content {
+    padding: 92px 0 50px 480px;
+}
+
+.about_header {
+    margin-bottom: 33px;
+    color: #299cbd;
+    line-height: 30px;
+    font-weight: 900;
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+.about_text {
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 27px;
+    color: #4a4a4a;
+    margin-bottom: 23px;
+}
+
+.about_text span {
+    font-weight: bold;
+}
+
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.skills{
+    background-image: url("../img/second_bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 450px;
+    padding: 20px;
+}
